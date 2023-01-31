@@ -1,2 +1,2 @@
 # YetGenJumpPython
-Yetgen 1.Hafta Denemesi
+###Yetgen Python Eğitimi 1.Hafta Çalışmaları
