@@ -1,0 +1,5 @@
+
+Ürünün İsmi = Telefon 
+Ürünün Fiyatı = 20000 
+Ürünün İsmi = Telefon  
+Ürünün Fiyatı = 20000 
